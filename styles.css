@@ -107,6 +107,22 @@ header .profile-image:hover {
   text-align: center;
 }
 
+.quote {
+  margin: 20px;
+  padding: 20px 5px 5px;
+  max-width: 300px;
+  text-align: center;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+
+.quote:hover {
+  border-color: #8f5a47;
+  transform: scale(1.025);
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
