@@ -162,6 +162,12 @@ footer ul li {
   display: inline-block;
 }
 
+.tardis {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
 a.social {
   display: inline-block;
   text-indent: -9999px;
